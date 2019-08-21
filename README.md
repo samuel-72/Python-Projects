@@ -1,2 +1,2 @@
 # Python-Projects
-Contains all my python mini projects
+Contains some of my python mini projects
